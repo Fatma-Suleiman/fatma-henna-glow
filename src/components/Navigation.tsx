@@ -12,7 +12,6 @@ const Navigation = () => {
     { name: "Services", href: "#services" },
     { name: "Gallery", href: "#gallery" },
     { name: "Testimonials", href: "#testimonials" },
-    { name: "Blog", href: "#blog" },
     { name: "Contact", href: "#contact" },
   ];
 
@@ -35,9 +34,7 @@ const Navigation = () => {
                 {item.name}
               </a>
             ))}
-            <Button asChild variant="hero" size="lg">
-              <a href="#book">Book Now</a>
-            </Button>
+            
           </div>
 
           {/* Mobile Menu Button */}
