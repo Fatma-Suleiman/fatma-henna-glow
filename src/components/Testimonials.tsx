@@ -56,7 +56,7 @@ const Testimonials = () => {
         <div className="text-center">
           <Button asChild variant="outline" size="lg">
             <a
-              href="https://www.google.com/maps/place/Fatma+Henna+Art/@-1.1233026,36.9611273,17z/data=!3m1!4b1!4m6!3m5!1s0x182f3f0c0c0c0c0c:0x0!8m2!3d-1.1233026!4d36.9637022!16s%2Fg%2F11y3y3y3y3"
+              href="https://www.google.com/search?sca_esv=c66570702dbaae6e&si=AMgyJEtREmoPL4P1I5IDCfuA8gybfVI2d5Uj7QMwYCZHKDZ-EwOLGa2SI__7urxJyU-cj1EZdSSG8Paxnvkv49zOcb2cZiqn4vCM8zoJVVUE27wqPeGAJtOaYshOUx5Ibhxwk2L45oAB&q=Fatma+Henna+Art+Reviews&sa=X&ved=2ahUKEwiRhdmW87-QAxXGU0EAHb6bGQwQ0bkNegQIPRAD&biw=1536&bih=703&dpr=1.25"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2"

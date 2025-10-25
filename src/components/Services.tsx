@@ -72,15 +72,25 @@ const Services = () => {
           <p className="font-inter text-muted-foreground mb-6">
             Quality black and brown henna • House calls available
           </p>
-          <Button asChild variant="hero" size="lg">
-            <a 
-              href="https://wa.me/254114532154?text=Hello%20Fatma%2C%20I%27d%20like%20to%20inquire%20about%20your%20services" 
-              target="_blank" 
-              rel="noopener noreferrer"
-            >
-              Get a Quote
-            </a>
-          </Button>
+          <Button
+  asChild
+  size="lg"
+  className="font-bold text-white bg-gradient-to-r from-amber-300 via-amber-400 to-amber-500
+             hover:from-amber-200 hover:via-amber-300 hover:to-amber-600
+             shadow-lg shadow-amber-400/30 hover:shadow-amber-400/50
+             transition-all rounded-lg px-6 py-3
+             focus:outline-none focus:ring-4 focus:ring-amber-300/30"
+>
+  <a
+    href="https://wa.me/254114532154?text=Hello%20Fatma%2C%20I%27d%20like%20to%20inquire%20about%20your%20services"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Get a Quote
+  </a>
+</Button>
+
+
         </div>
       </div>
     </section>

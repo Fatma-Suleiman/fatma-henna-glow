@@ -46,8 +46,8 @@ const About = () => {
 
           <div className="prose prose-lg max-w-none">
             <p className="font-inter text-center text-foreground leading-relaxed">
-              Hello! I'm Fatma Suleiman, a passionate henna artist based in Nairobi. With years of experience 
-              in creating intricate designs, I specialize in bridal henna, custom patterns, and event artistry. 
+              Hello! I'm Fatma Suleiman, a passionate henna artist based in Nairobi. With experience 
+              in creating intricate designs, I specialize in variety of henna types, custom patterns, and event artistry. 
               Whether you're preparing for your wedding day, celebrating a special occasion, or simply want to 
               adorn yourself with beautiful henna art, I'm here to bring your vision to life with precision 
               and care.
